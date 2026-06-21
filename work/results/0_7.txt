@@ -1,0 +1,2 @@
+File name	Duration	Situation
+chicago_2016-01.gml.50.af	1	Success

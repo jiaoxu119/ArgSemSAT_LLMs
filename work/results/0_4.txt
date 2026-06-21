@@ -1,0 +1,2 @@
+File name	Duration	Situation
+a1210993_20150717_0403.gml.80.af	0	Success

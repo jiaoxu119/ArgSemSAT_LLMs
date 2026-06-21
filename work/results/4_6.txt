@@ -1,0 +1,2 @@
+File name	Duration	Situation
+afinput_exp_cycles_depvary_step4_batch_yyy04.af	1	Success

@@ -1,0 +1,9 @@
+现在你是一名专业抽象辩论模型(Abstract Argumentation Framework)与 SAT 性能分析专家。你的任务是分析在求解优先扩充（Preferred Extension）问题时，特定的底层优化策略对 Minisat 求解器性能产生影响的深层原因
+阅读当前原始代码'''{origincode}'''
+针对Lit Solver::pickBranchLit()函数
+我当前的修改方案是'''{advise}'''
+编写的代码是'''{code}'''
+相当于基准'''{property}'''
+分析具体原因，输出返回一段简短的内容即可。
+- 禁止使用任何Markdown格式
+- 输出后无需解释说明

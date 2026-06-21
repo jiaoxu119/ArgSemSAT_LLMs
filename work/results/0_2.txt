@@ -1,0 +1,2 @@
+File name	Duration	Situation
+Medium-result_b12.af	12	Success

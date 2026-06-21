@@ -1,0 +1,6 @@
+你是抽象辩论模型(Abstract Argumentation Framework)与 SAT 求解算法研究专家。你正在分析针对 ArgSemSAT 模型中 Minisat 求解器 pickBranchLit 函数的一系列优化实验，以下是各个修改方案及其对应的评估时间：
+{{history}}
+请你基于上述实验数据进行深度分析，提炼总结出所有历史中的核心经验，挖掘最本质的模式，提出一个最优的改进idea。
+关键参考代码如下：
+{{keycode}}
+请直接输出你总结出的最佳改进idea，要求高度精炼、准确。禁止使用解释说明、Markdown格式。

@@ -1,0 +1,2 @@
+File name	Duration	Situation
+crusti_g2io_250_0.2_255_24.af	171	Success
